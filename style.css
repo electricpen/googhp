@@ -1,3 +1,63 @@
+
+* {
+/*  border: 1px solid rgba(0, 0, 0, 0.5);  */
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.Google {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5em;
+  letter-spacing: -0.27em;
+  text-align: center;
+  top: 18%;
+  left: 40%;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  position: absolute;
+}
+
+input {
+  line-height: 2.5em;
+  width: 500px;
+  margin: 0 30%;
+  top: 300px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  position: absolute;
+}
+
+ul li {
+  display: inline;
+  padding: 10px 5px;
+}
+
+.Buttons {
+  position: absolute;
+  top: 40%;
+  right: 37%;
+  padding: 10px 50px;
+}
+
+.header {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  width: 200px;
+}
+
+.info {
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+}
+
+.fineprint {
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+}
+
 .blue {
   color: #448cff;
 }
